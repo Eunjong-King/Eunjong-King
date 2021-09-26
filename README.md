@@ -1,8 +1,8 @@
 <h2> Hello, This is Eunjong Kim. </h2>
 
-<a href="https://www.instagram.com/silver_bell.dev/">
+<a href="https://www.instagram.com/enjoy.hack/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/silver_bell.dev/"
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/enjoy.hack/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
