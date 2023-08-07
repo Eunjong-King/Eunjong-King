@@ -4,6 +4,7 @@ Work hard, Love everything, Enjoy all the moments.
 
 ### History
 
+* [**Naval Future Innovation Reserch Group**](), 2023.06 ~ 2025.02
 * [**Kakao Tech Campus 1st**](https://www.kakaotechcampus.com/), 2023.04 ~ 2023.06
 * [**2022 SmileGate Winter Dev Camp**](http://newsroom.smilegate.com/bbs/board.php?bo_table=news&wr_id=1226), 2022.11 ~ 2023.02
 * [**SW Maestro 13th**](https://www.swmaestro.org/sw/main/main.do), 2022.04 ~ 2022.11
